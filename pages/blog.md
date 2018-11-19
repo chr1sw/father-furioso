@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Sermons
+title: Father Furioso
 permalink: /blog
 section: blog
 intro_paragraph: >
