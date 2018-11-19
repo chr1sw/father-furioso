@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Words of Father Biff
+title: The Blog
 permalink: /blog
 section: blog
 intro_paragraph: >
