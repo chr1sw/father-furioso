@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Father Furioso
+title: Father Biff
 permalink: /blog
 section: blog
 intro_paragraph: >
