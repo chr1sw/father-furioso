@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome...
+title: 'Father Furioso: Scourge of Folly'
 permalink: /
 section: home
 intro_paragraph: >-
