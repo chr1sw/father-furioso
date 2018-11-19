@@ -7,5 +7,3 @@ intro_paragraph: |-
 
  Send Father Biff a message.
 ---
-
-**Send us a message**
